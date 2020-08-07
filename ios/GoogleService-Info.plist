@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>534885471557-qtos9qq679fptpkihu162abc9frnrtuj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.534885471557-qtos9qq679fptpkihu162abc9frnrtuj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBGsgsCfaOtLEAaU8xpFMY-wNlZta8-1aI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>534885471557</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.ilaroMobile</string>
+	<key>PROJECT_ID</key>
+	<string>fpi-e-learning</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fpi-e-learning.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:534885471557:ios:3c3304ec83013fcf171a2c</string>
+	<key>DATABASE_URL</key>
+	<string>https://fpi-e-learning.firebaseio.com</string>
+</dict>
+</plist>
